@@ -1,0 +1,12 @@
+.wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.std-list{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.std-list h2{
+  margin: 0%;
+}
